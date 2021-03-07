@@ -1,3 +1,4 @@
-I love ubuntu
+I love Linux
 I hate unix
 Hi how are you?
+Linux
